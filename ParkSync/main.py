@@ -9,7 +9,7 @@ def calc_diff(im1, im2):
 
 # Your existing code for loading the video and processing the mask
 mask = './mask_1920_1080.png'
-video_path = './parking_crop.mp4'
+video_path = './parking_1920_1080.mp4'
 
 mask = cv2.imread(mask, 0)
 
