@@ -7,7 +7,7 @@ from util import get_parking_spots_bboxes, empty_or_not
 def calc_diff(im1, im2):
     return np.abs(np.mean(im1) - np.mean(im2))
 
-# Your existing code for loading the video and processing the mask
+
 mask = './mask_1920_1080.png'
 video_path = './parking_1920_1080.mp4'
 
@@ -24,7 +24,7 @@ diffs = [None for _ in spots]
 
 previous_frame = None
 
-# Specify the CSV file path for parking status and location
+# CSV file path for parking status and location
 csv_file_path = 'output.csv'
 
 # Open the CSV file for parking status and location writing
@@ -32,7 +32,7 @@ with open(csv_file_path, 'w', newline='') as csvfile:
     # Create a CSV writer for parking status and location
     csv_writer = csv.writer(csvfile)
 
-    # Write the header row for parking status and location
+   
     csv_writer.writerow(['Frame Number', 'Spot Index', 'Spot Status', 'Spot Location'])
 
     # Continue processing frames

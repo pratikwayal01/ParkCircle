@@ -8,11 +8,5 @@
     {% for i in obj_lst %}
         <p>{{ i.Frame_Number }}, {{ i.Spot_Index }}, {{ i.Spot_Status }}</p>
     {% endfor %}
-    <h3>Empty Spaces</h3>
-        {% for j in obj_lst %}
-            {% if j.Spot_Status %}
-                <p>{{ j.Frame_Number }}, {{ j.Spot_Index }}, {{ j.Spot_Status }}</p>
-            {% endif %}
-        {% endfor %}
 </body>
 </html>

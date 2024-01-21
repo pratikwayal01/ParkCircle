@@ -1,0 +1,55 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header form .btn {
+    background-color: #8c68cd;
+}
+
+header form .btn:hover {
+    background-color: #a88ae0;
+    color: #ffffff;
+}
+
+.sidebar .nav-link {
+    color: #212529;
+}
+
+.sidebar .nav-link:hover,
+.sidebar .nav-link:focus {
+    background-color: #f0f0f0;
+    font-weight: 600;
+}
+
+.card1 {
+    background-color: #b4eaf6;
+}
+
+.card2 {
+    background-color: #efcfff;
+}
+
+.card3 {
+    background-color: #ffe69c;
+}
+
+.card i {
+    font-size: 1.5rem;
+}
+
+.progress1 {
+    background-color: #79dfc1;
+}
+
+.progress2 {
+    background-color: #ffe69c;
+}
+
+.progress3 {
+    background-color: #b4eaf6;
+}
+
+.progress4 {
+    background-color: #efcfff;
+}

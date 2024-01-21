@@ -6,7 +6,11 @@ import time
 
 
 def table_view(request):
-    obj = Parking.objects.all()
-    return render(request, 'table.html', {
+    ctr = Parking.objects.filter(Spot_Status=True).count()
+    ctr2 = Parking.objects.filter(Spot_Status=False).count()
+    obj = Parking.objects.all().count()
+    return render(request, 'index.html', {
         'obj_lst': obj,
+        'counter': ctr,
+        'counter2': ctr2,
     })
