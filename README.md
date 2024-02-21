@@ -63,6 +63,6 @@ The system operates on video input, analyzing parking spaces in real-time to pro
 
 Park Sync represents a significant step towards creating safer and more sustainable urban environments. By leveraging advanced technologies, the project aims to streamline parking management and enhance overall urban mobility. 🏙️🔗
 
-For any inquiries or contributions, please contact [project maintainer email/website].
+For any inquiries or contributions, please contact [pratikswayal123@gmail.com ].
 
-Thank you for your interest in Park Sync! Together, let's build smarter cities for a brighter future. 🌟🏙️
+Thank you for your interest in Park Circle! Together, let's build smarter cities for a brighter future. 🌟🏙️
