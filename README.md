@@ -1,8 +1,8 @@
-# ParkSync
+# ParkCircle
 Parking Space Tracking System
 To run the code ,follow these steps shown in this [video](https://youtu.be/wh7HcrvCH6A)
 
-# Park Sync Project Readme
+# Park Circle Project Readme
 
 Welcome to Park Sync, a project dedicated to enhancing the safety and sustainability of cities and human settlements through innovative technology. This readme provides an overview of the project structure, functionality, implementation details, and instructions for running the code. 🌆🌱
 
