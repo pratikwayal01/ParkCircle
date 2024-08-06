@@ -1,6 +1,7 @@
 # ParkCircle
 Parking Space Tracking System
-To run the code ,follow these steps shown in this [video](https://youtu.be/wh7HcrvCH6A)
+To run the code ,follow these steps shown in this 
+[![YouTube](http://i.ytimg.com/vi/wh7HcrvCH6A/hqdefault.jpg)](https://www.youtube.com/watch?v=wh7HcrvCH6A)
 
 # Park Circle Project Readme
 
