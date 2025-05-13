@@ -1,7 +1,8 @@
 opencv-python==4.6.0.66
-scikit-learn==1.1.3
+scikit-learn==1.4.2
 pandas==1.5.1
 Pillow==9.3.0
-scikit-image==0.17.2
+scikit-image==0.22.0
 matplotlib==3.6.2
 django
+numpy==1.26.4
